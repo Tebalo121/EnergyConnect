@@ -1,0 +1,81 @@
+product_id,product_name,supplier_district,avg_price_maloti,import_tax_percent,stock_available
+1,Inverter 1KW,Mohale's Hoek,3634.71,12,25
+2,Battery 200Ah,Berea,2289.1,5,57
+3,Charge Controller,Maseru,8249.29,7,28
+4,Inverter 3KW,Leribe,5583.81,10,36
+5,Solar Panel 350W,Mafeteng,4086.98,12,74
+6,Battery 200Ah,Berea,4588.45,5,69
+7,Battery 200Ah,Berea,8567.72,15,17
+8,Battery 100Ah,Maseru,2057.48,10,41
+9,Battery 200Ah,Mafeteng,5607.08,7,40
+10,Charge Controller,Mohale's Hoek,4948.29,7,37
+11,Inverter 3KW,Berea,5813.92,10,33
+12,Inverter 3KW,Maseru,948.5,7,16
+13,Solar Panel 150W,Mohale's Hoek,7951.42,12,36
+14,Inverter 3KW,Mafeteng,8443.37,5,24
+15,Inverter 3KW,Berea,5434.09,12,75
+16,Battery 100Ah,Mohale's Hoek,6512.54,7,26
+17,Inverter 3KW,Mohale's Hoek,8364.49,15,56
+18,Solar Panel 150W,Mohale's Hoek,6599.36,5,30
+19,Solar Panel 350W,Berea,2050.82,5,5
+20,Charge Controller,Berea,5525.56,10,39
+21,Battery 100Ah,Leribe,5775.06,10,11
+22,Solar Panel 350W,Mafeteng,4277.87,15,52
+23,Battery 100Ah,Maseru,6838.84,5,70
+24,Inverter 1KW,Mohale's Hoek,8461.81,15,9
+25,Battery 200Ah,Leribe,8389.66,10,44
+26,Inverter 1KW,Maseru,4496.88,10,16
+27,Inverter 3KW,Leribe,1728.55,5,25
+28,Solar Panel 350W,Berea,8875.7,12,61
+29,Inverter 3KW,Mohale's Hoek,7678.96,7,45
+30,Battery 200Ah,Maseru,1822.23,10,63
+31,Battery 100Ah,Maseru,8350.9,10,1
+32,Battery 200Ah,Maseru,7933.15,12,53
+33,Solar Panel 150W,Maseru,5054.47,12,64
+34,Battery 200Ah,Maseru,5648.46,15,50
+35,Solar Panel 150W,Leribe,4071.82,15,52
+36,Battery 200Ah,Mohale's Hoek,1249.05,7,35
+37,Charge Controller,Berea,3548.62,7,25
+38,Solar Panel 150W,Berea,7383.4,5,28
+39,Solar Panel 350W,Berea,837.98,15,20
+40,Inverter 3KW,Berea,3534.69,10,10
+41,Inverter 3KW,Leribe,4064.98,15,39
+42,Inverter 1KW,Mafeteng,5206.64,10,10
+43,Inverter 3KW,Mohale's Hoek,8342.82,12,35
+44,Battery 100Ah,Maseru,3640.04,15,58
+45,Charge Controller,Mafeteng,3645.02,12,38
+46,Battery 200Ah,Berea,6847.51,7,53
+47,Inverter 1KW,Mafeteng,4508.19,7,54
+48,Battery 100Ah,Mohale's Hoek,2641.76,5,23
+49,Battery 100Ah,Maseru,4510.0,15,21
+50,Solar Panel 150W,Maseru,1955.03,12,68
+51,Inverter 3KW,Mohale's Hoek,2246.37,10,55
+52,Solar Panel 350W,Mohale's Hoek,4886.62,7,32
+53,Solar Panel 350W,Berea,4235.19,7,35
+54,Inverter 1KW,Maseru,8301.74,10,19
+55,Charge Controller,Mafeteng,3771.63,12,61
+56,Solar Panel 350W,Leribe,5560.82,12,72
+57,Battery 200Ah,Leribe,5984.57,15,25
+58,Solar Panel 350W,Mohale's Hoek,907.37,15,65
+59,Inverter 1KW,Berea,6241.01,5,72
+60,Solar Panel 350W,Leribe,2259.89,7,72
+61,Battery 200Ah,Maseru,8680.78,15,39
+62,Solar Panel 150W,Mohale's Hoek,2019.03,12,16
+63,Charge Controller,Mafeteng,4199.92,10,0
+64,Inverter 1KW,Mohale's Hoek,1499.87,12,60
+65,Solar Panel 150W,Mafeteng,8974.37,7,42
+66,Solar Panel 150W,Mohale's Hoek,4918.0,12,41
+67,Solar Panel 150W,Mohale's Hoek,5682.16,5,24
+68,Battery 100Ah,Mohale's Hoek,1350.03,7,38
+69,Charge Controller,Mafeteng,6949.68,10,34
+70,Inverter 3KW,Mafeteng,2521.23,5,2
+71,Charge Controller,Mohale's Hoek,8164.05,7,43
+72,Battery 100Ah,Leribe,2482.15,10,50
+73,Inverter 3KW,Berea,2363.64,5,11
+74,Charge Controller,Berea,1099.71,5,18
+75,Solar Panel 150W,Berea,4670.95,7,43
+76,Inverter 1KW,Mafeteng,5431.7,15,58
+77,Inverter 3KW,Mafeteng,1338.81,5,48
+78,Battery 200Ah,Leribe,7159.33,5,60
+79,Battery 200Ah,Berea,4516.97,10,16
+80,Solar Panel 350W,Berea,5100.0,12,73
